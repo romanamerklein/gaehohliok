@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pieghiethi.wishuponaprint.com/sitemap.xml
